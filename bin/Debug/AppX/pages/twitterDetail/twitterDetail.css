@@ -1,0 +1,135 @@
+﻿.twitterDetail .arrowCut {
+    position:absolute;
+	width: 0;
+    top:auto;
+    left:310px;
+    top:145px;
+	height: 0; 
+	border-top: 10px solid transparent;
+	border-bottom: 10px solid transparent; 	
+	border-right:10px solid rgb(244,245,247); 
+}
+
+.twitterDetail section[role=main] {
+
+}
+
+.twitterDetail section[role=main] .twitter-340x170{
+    margin-left: 400px;
+}    
+
+.twitterDetail .twitter-340x170{
+    top:16px;
+transform:scale(1.8);
+transform-origin:left top;
+}
+
+.twitterDetail .userInfo {
+    position:absolute;
+    top: 140px;
+    left:40px;
+}
+
+#twitterDetail {
+    left:0px;
+    width:320px;
+    height: 100vh;
+   background-color:rgb(31,32,34);
+   background-image:url('../../images/tweet_background1.png');
+   z-index:-1;
+}
+
+.twitterDetail header h1 {
+    margin-left:280px;
+}
+
+.twitterDetail #twitterUserImage {
+    width:200px;
+}
+
+.twitterDetail #twitterHandle {
+    padding-bottom:10px;
+    font-size:22px;
+    color:#fff; /*group-chevron-color*/
+}
+
+.twitterDetail #twitterHandle:before {
+    content: '@';
+}
+
+.twitterDetail #twitterUserName {
+    font-weight:normal;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-size:20px;
+    color:#fff;
+}
+
+.twitterDetail #btnViewOnTwitter {
+   width:200px;
+}
+
+@media screen and (-ms-view-state: snapped) {
+    .twitterDetail section[role=main] {
+        margin-left: 20px;
+        margin-right: 20px;              
+    }
+    .twitterDetail section[role=main] .twitter-340x170{
+    top:16px;
+transform:scale(1);
+transform-origin:left top;
+ margin-left: 0px;
+}
+
+#twitterDetail {
+     position:absolute;
+    -ms-grid-column:1;
+    -ms-grid-row:2;
+    bottom:0px;    
+    left:0px;
+    right:auto;
+    top:auto;
+    width:320px;
+    height: 370px;
+   background-color:rgb(31,32,34);
+   background-image:url('../../images/tweet_background1.png');
+   z-index:-1;
+}
+
+    .twitterDetail .userInfo {
+
+    top: 20px;
+    left:20px;
+
+}
+
+    .twitterDetail .userInfo #twitterUserName {
+        padding-top:8px;
+        padding-bottom:10px;
+    }
+
+    .twitterDetail .arrowCut {
+        position:absolute;
+        width: 0;
+        left:20px;
+        top:-0px;
+        height: 0; 
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-top: 10px solid rgb(244,245,247);
+    }
+
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+    .twitterDetail section[role=main] {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+        .twitterDetail section[role=main] .twitter-340x170{
+    top:16px;
+transform:scale(1);
+transform-origin:left top;
+ margin-left: 280px;
+}
+}

@@ -1,0 +1,71 @@
+﻿#videoDetailContainer {
+    position:relative;
+    padding-left: 120px;
+    width:calc(100%- 120px);
+    overflow-x:scroll;
+}
+
+#videoDetailInfo {
+    position:absolute;
+    left : 695px;
+    top:0px;
+    height:calc(100% - 142px);
+    width:340px;
+}
+
+#videoDetailDescriptionWrapper {   
+    padding:0px; 
+    width:320px;    
+    color: rgb(128, 128, 128);
+    height:100%;
+    column-width:340px;
+    column-count:auto;
+    column-gap:20px;
+}
+#videoDetailDescriptionBackground {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+#videoDetailDescription {
+    font-family:'Segoe UI'; /*font-family*/
+    white-space:pre-line;
+    word-wrap:break-word;
+    padding:10px;
+}
+
+#videoDetailPlayer {
+    width:600px;
+    overflow:hidden;
+}
+
+@media screen and (-ms-view-state: snapped) {
+    #videoDetailContainer {
+        margin-left: 20px;
+        overflow-y:scroll;
+        height:calc(100% - 30px);
+        width:calc(100% - 20px);
+        padding-left: 0px;
+    }
+
+    #youtube {
+    width:280px;
+    height:150px;
+    overflow:hidden;
+}
+    #videoDetailPlayer {
+         width:280px;
+    overflow:hidden;
+    }
+
+    #videoDetailInfo {
+        word-wrap: break-word;
+
+    position:relative;
+    left:0px;
+    height:auto;
+    overflow-x: auto;
+    overflow-y:auto;
+    top:0px;
+    width:280px;
+}
+}

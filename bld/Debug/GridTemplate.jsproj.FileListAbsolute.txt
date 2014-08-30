@@ -1,0 +1,13 @@
+C:\Users\mabeeby\SkyDrive\Projects\GridTemplate\GridTemplate\bin\Debug\resources.pri
+C:\Users\mabeeby\SkyDrive\Projects\GridTemplate\GridTemplate\bin\Debug\AppxManifest.xml
+C:\Users\mabeeby\SkyDrive\Projects\GridTemplate\GridTemplate\bin\Debug\GridTemplate.build.appxrecipe
+C:\Users\mabeeby\SkyDrive\Projects\GridTemplate\GridTemplate\bld\Debug\priconfig.xml.intermediate
+C:\Users\mabeeby\SkyDrive\Projects\GridTemplate\GridTemplate\bld\Debug\layout.resfiles.intermediate
+C:\Users\mabeeby\SkyDrive\Projects\GridTemplate\GridTemplate\bld\Debug\resources.resfiles.intermediate
+C:\Users\mabeeby\SkyDrive\Projects\GridTemplate\GridTemplate\bld\Debug\pri.resfiles.intermediate
+C:\Users\mabeeby\SkyDrive\Projects\GridTemplate\GridTemplate\bld\Debug\priconfig.xml
+C:\Users\mabeeby\SkyDrive\Projects\GridTemplate\GridTemplate\bld\Debug\layout.resfiles
+C:\Users\mabeeby\SkyDrive\Projects\GridTemplate\GridTemplate\bld\Debug\resources.resfiles
+C:\Users\mabeeby\SkyDrive\Projects\GridTemplate\GridTemplate\bld\Debug\pri.resfiles
+C:\Users\mabeeby\SkyDrive\Projects\GridTemplate\GridTemplate\bld\Debug\LanguageQualifiers.txt
+C:\Users\mabeeby\SkyDrive\Projects\GridTemplate\GridTemplate\bld\Debug\ProjectArchitectures.txt

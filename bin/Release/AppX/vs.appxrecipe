@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HOME</Machine>
+    <WindowsUser>Krishna</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>717c608f-ff7b-4d92-a247-73daf1a4a5x7</PackageIdentityName>
+    <IntermediateOutputPath>D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>DBC4FBF9B72E26794944BAD9044AF96E33103D9E294FE580F7AE94D00A47785D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>717c608f-ff7b-4d92-a247-73daf1a4a5x7_1.0.0.0_neutral__t1f5hx1c3j76a</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>717c608f-ff7b-4d92-a247-73daf1a4a5x7_t1f5hx1c3j76a!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>717c608f-ff7b-4d92-a247-73daf1a4a5x7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=mabeeby</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T14:15:56.957</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\App.config">
+      <PackagePath>App.config</PackagePath>
+      <Modified>2013-09-01T09:00:40.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\packages.config">
+      <PackagePath>packages.config</PackagePath>
+      <Modified>2013-09-01T09:00:40.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-09-01T09:09:12.018</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\css\font.css">
+      <PackagePath>css\font.css</PackagePath>
+      <Modified>2013-09-01T09:09:12.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\pages\itemDetail\itemDetail.css">
+      <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
+      <Modified>2013-09-01T09:09:32.872</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\pages\groupDetail\groupDetail.css">
+      <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
+      <Modified>2013-09-01T09:09:32.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\pages\hub\hub.css">
+      <PackagePath>pages\hub\hub.css</PackagePath>
+      <Modified>2013-09-01T09:09:32.834</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\pages\twitterDetail\twitterDetail.css">
+      <PackagePath>pages\twitterDetail\twitterDetail.css</PackagePath>
+      <Modified>2013-09-01T09:09:33.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\pages\videoDetail\videoDetail.css">
+      <PackagePath>pages\videoDetail\videoDetail.css</PackagePath>
+      <Modified>2013-09-01T09:09:33.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\css\zipapp.woff">
+      <PackagePath>css\zipapp.woff</PackagePath>
+      <Modified>2013-09-01T09:09:12.096</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\images\noimage.png">
+      <PackagePath>images\noimage.png</PackagePath>
+      <Modified>2013-09-01T09:09:12.174</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\images\noImageGroup.png">
+      <PackagePath>images\noImageGroup.png</PackagePath>
+      <Modified>2013-09-01T09:09:12.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\images\tile_150x150.png">
+      <PackagePath>images\tile_150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-01T09:09:12.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\images\tile_24x24.png">
+      <PackagePath>images\tile_24x24.png</PackagePath>
+      <Modified>2013-09-01T09:09:12.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\images\tile_30x30.png">
+      <PackagePath>images\tile_30x30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-01T09:09:12.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\images\tile_310x150.png">
+      <PackagePath>images\tile_310x150.png</PackagePath>
+      <Modified>2013-09-01T09:09:12.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\images\tile_50x50.png">
+      <PackagePath>images\tile_50x50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-01T09:09:12.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\images\tile_620x300.png">
+      <PackagePath>images\tile_620x300.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-01T09:09:12.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\images\tweet_background1.png">
+      <PackagePath>images\tweet_background1.png</PackagePath>
+      <Modified>2013-09-01T09:09:12.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\images\zippapp_bg.png">
+      <PackagePath>images\zippapp_bg.png</PackagePath>
+      <Modified>2013-09-01T09:09:12.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\images\zippapp_bg.jpg">
+      <PackagePath>images\zippapp_bg.jpg</PackagePath>
+      <Modified>2013-09-01T09:09:12.539</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\js\appData.js">
+      <PackagePath>js\appData.js</PackagePath>
+      <Modified>2013-09-01T09:09:12.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\js\cache\facebook-24005.js">
+      <PackagePath>js\cache\facebook-24005.js</PackagePath>
+      <Modified>2013-09-01T09:09:32.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\js\cache\facebook-24006.js">
+      <PackagePath>js\cache\facebook-24006.js</PackagePath>
+      <Modified>2013-09-01T09:09:32.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2013-09-01T09:09:13.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-09-01T09:09:13.611</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\js\grid.js">
+      <PackagePath>js\grid.js</PackagePath>
+      <Modified>2013-09-01T09:09:13.611</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2013-09-01T09:09:13.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\js\provider.js">
+      <PackagePath>js\provider.js</PackagePath>
+      <Modified>2013-09-01T09:09:13.845</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\pages\itemDetail\itemDetail.js">
+      <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
+      <Modified>2013-09-01T09:09:33.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\pages\groupDetail\groupDetail.js">
+      <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
+      <Modified>2013-09-01T09:09:32.819</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\pages\hub\hub.js">
+      <PackagePath>pages\hub\hub.js</PackagePath>
+      <Modified>2013-09-01T09:09:32.856</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\pages\twitterDetail\twitterDetail.js">
+      <PackagePath>pages\twitterDetail\twitterDetail.js</PackagePath>
+      <Modified>2013-09-01T09:09:33.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\pages\videoDetail\videoDetail.js">
+      <PackagePath>pages\videoDetail\videoDetail.js</PackagePath>
+      <Modified>2013-09-01T09:09:33.565</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\pages\itemDetail\itemDetail.html">
+      <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
+      <Modified>2013-09-01T09:09:32.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\pages\groupDetail\groupDetail.html">
+      <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
+      <Modified>2013-09-01T09:09:32.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\pages\hub\hub.html">
+      <PackagePath>pages\hub\hub.html</PackagePath>
+      <Modified>2013-09-01T09:09:32.834</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-09-01T09:00:40.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\pages\twitterDetail\twitterDetail.html">
+      <PackagePath>pages\twitterDetail\twitterDetail.html</PackagePath>
+      <Modified>2013-09-01T09:09:33.384</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\pages\videoDetail\videoDetail.html">
+      <PackagePath>pages\videoDetail\videoDetail.html</PackagePath>
+      <Modified>2013-09-01T09:09:33.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\readme.txt">
+      <PackagePath>readme.txt</PackagePath>
+      <Modified>2013-09-01T09:00:40.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-07-18T14:15:56.534</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

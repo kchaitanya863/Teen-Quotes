@@ -1,0 +1,40 @@
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bin\Debug\resources.pri
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bin\Debug\AppxManifest.xml
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bld\Debug\priconfig.xml.intermediate
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bld\Debug\layout.resfiles.intermediate
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bld\Debug\resources.resfiles.intermediate
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bld\Debug\pri.resfiles.intermediate
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bld\Debug\priconfig.xml
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bld\Debug\layout.resfiles
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bld\Debug\resources.resfiles
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bld\Debug\pri.resfiles
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bld\Debug\LanguageQualifiers.txt
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bld\Debug\ProjectArchitectures.txt
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bin\Debug\ZipApp.build.appxrecipe
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bin\Debug\ZipApp.config
+H:\Apps\Teen Quotes\bin\Debug\ZipApp.config
+H:\Apps\Teen Quotes\bin\Debug\resources.pri
+H:\Apps\Teen Quotes\bin\Debug\AppxManifest.xml
+H:\Apps\Teen Quotes\bin\Debug\ZipApp.build.appxrecipe
+H:\Apps\Teen Quotes\bld\Debug\priconfig.xml
+H:\Apps\Teen Quotes\bld\Debug\layout.resfiles
+H:\Apps\Teen Quotes\bld\Debug\resources.resfiles
+H:\Apps\Teen Quotes\bld\Debug\pri.resfiles
+H:\Apps\Teen Quotes\bld\Debug\LanguageQualifiers.txt
+H:\Apps\Teen Quotes\bld\Debug\ProjectArchitectures.txt
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bin\Debug\ZipApp.config
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bin\Debug\resources.pri
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bin\Debug\AppxManifest.xml
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bin\Debug\ZipApp.build.appxrecipe
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Debug\priconfig.xml
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Debug\priconfig.xml.intermediate
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Debug\layout.resfiles
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Debug\layout.resfiles.intermediate
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Debug\resources.resfiles
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Debug\resources.resfiles.intermediate
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Debug\pri.resfiles
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Debug\pri.resfiles.intermediate
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Debug\qualifiers.txt
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Debug\qualifiers.txt.intermediate
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Debug\ProjectArchitectures.txt

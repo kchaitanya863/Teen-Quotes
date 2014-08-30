@@ -1,0 +1,47 @@
+﻿.groupdetailpage section[role=main] {
+    -ms-grid-row: 1;
+    -ms-grid-row-span: 2;
+}
+
+/* This selector is used to prevent ui-dark/light.css from overwriting changes
+   to .win-surface. */
+.groupdetailpage .itemslist .win-horizontal.win-viewport .win-surface {
+    margin-bottom: 35px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 128px;
+}
+
+.groupdetailpage .itemslist {
+    height: 100%;
+    position: relative;
+    width: 100%;
+    z-index: 0;
+}
+    
+
+
+
+@media screen and (-ms-view-state: snapped) {
+    .groupdetailpage section[role=main] {
+        -ms-grid-row: 2;
+        -ms-grid-row-span: 1;
+    }
+
+    .groupdetailpage .itemslist .win-vertical.win-viewport .win-surface {
+        margin-bottom: 30px;
+        margin-top: 0;
+        margin-left:10px;
+    }
+
+    .groupdetailpage .itemslist .win-groupheader {
+        visibility: hidden;
+    }    
+  
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+    .groupdetailpage .itemslist .win-horizontal.win-viewport .win-surface {
+        margin-left: 100px;
+    }
+}

@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>videoDetail</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="videoDetail.css" rel="stylesheet" />
+    <script src="videoDetail.js"></script>
+</head>
+<body>
+    <div class="videoDetail fragment">
+        <header aria-label="Header content" role="banner">
+            <button class="win-backbutton" aria-label="Back" disabled type="button"></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle">Welcome to videoDetail</span>
+            </h1>
+        </header>
+        <section id="videoDetailContainer" aria-label="Main content" role="main">
+            <div class="item-container-header">
+                <h2>Video <span class="icon-video" aria-hidden="true"></span></h2>
+            </div>
+            <div id ="videoDetailPlayer"></div>
+            <div id="videoDetailInfo">
+                <div class="item-container-header">
+                <h2>Video Information <span class="icon-article" aria-hidden="true"></span></h2>
+            </div>
+                <div id="videoDetailDescriptionWrapper">
+                    <div id="videoDetailDescriptionBackground">
+                        <div id="videoDetailDescription"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>

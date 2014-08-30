@@ -1,0 +1,26 @@
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bin\Release\ZipApp.config
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bin\Release\resources.pri
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bin\Release\AppxManifest.xml
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bin\Release\ZipApp.build.appxrecipe
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bld\Release\priconfig.xml
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bld\Release\layout.resfiles
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bld\Release\resources.resfiles
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bld\Release\pri.resfiles
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bld\Release\LanguageQualifiers.txt
+C:\Users\mabeeby\SkyDrive\Projects\Windows8CMS\ZipApp\bld\Release\ProjectArchitectures.txt
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bin\Release\ZipApp.config
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bin\Release\resources.pri
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bin\Release\AppxManifest.xml
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bin\Release\ZipApp.build.appxrecipe
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Release\priconfig.xml
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Release\priconfig.xml.intermediate
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Release\layout.resfiles
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Release\layout.resfiles.intermediate
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Release\resources.resfiles
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Release\resources.resfiles.intermediate
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Release\pri.resfiles
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Release\pri.resfiles.intermediate
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Release\qualifiers.txt
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Release\qualifiers.txt.intermediate
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Local Disk E_9120131428\Apps\Windows Phone\Teen Quotes\bld\Release\ProjectArchitectures.txt
